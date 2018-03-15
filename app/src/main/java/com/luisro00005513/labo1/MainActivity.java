@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
         //==============codigo==================
         TextView first = (TextView)findViewById(R.id.txtViewFirst);
         first.setText("holi perritos!!!!!!!!!!!!!!");
-        ///texto nuevo de prueba
+        ///texto nuevo de pruebaaaaa
     }
 }
